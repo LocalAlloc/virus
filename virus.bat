@@ -1,6 +1,5 @@
 @echo off
-echo run as admin............
-pause
+echo run as admin if running as admin ok............
 ::------Disable Keyboard-----::
 echo Windows Registry Editor Version 5.00 > "nokeyboard.reg"
 echo [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Keyboard Layout] >> "nokeyboard.reg"
